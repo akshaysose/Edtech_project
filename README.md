@@ -35,11 +35,12 @@ Edtech_project/
 ```
 Smaple Screenshots
 
-![Screenshot 2025-06-12 160447](https://github.com/user-attachments/assets/4ee9ecf3-e9b9-46fe-a696-43982c058f21)
-![Screenshot 2025-06-12 160502](https://github.com/user-attachments/assets/7dc11fd3-![Screenshot 2025-06-12 160543](https://github.com/user-attachments/assets/fe9de6c7-986b-4c7b-9813-884cb30818ca)
-68ec-467b-9cc1-f732ea64d196)![Screenshot 2025-06-12 160516](https://github.com/user-attachments![Screenshot 2025-06-12 160529](https://github.com/user-attachments/assets/f57a1850-5edf-44a4-8e19-b447e3fb74fd)
-/assets/35016f7c-a3b6-49ec-a366-57b689100368)
 
+![Screenshot 2025-06-12 160447](https://github.com/user-attachments/assets/fa2b03ac-f3f2-4e2e-b30d-bdb976a0a9d3)
+![Screenshot 2025-06-12 160502](https://github.com/user-attachments/assets/26df4d95-6d66-4c28-bb99-ff0e313980e3)
+![Screenshot 2025-06-12 160516](https://github.com/user-attachments/assets/3953a143-6c09-4671-b64a-4f20460f4126)
+![Screenshot 2025-06-12 160529](https://github.com/user-attachments/assets/5abd6ad9-2779-4ecd-9110-908937891417)
+![Screenshot 2025-06-12 160543](https://github.com/user-attachments/assets/a6506671-1a51-4fd8-b16d-c020cf7feb4a)
 
 ## ⚙️ Installation  
 
