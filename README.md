@@ -11,7 +11,7 @@ An interactive and user-friendly platform for modern education, designed to conn
 - **Community Interaction**: Discussion forums and Q&A sections to facilitate communication.  
 
 ## 💻 Technologies Used  
-- **Frontend**: React, Redux, Tailwind CSS  
+- **Frontend**: React, Redux,ContextApi, Tailwind CSS  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
 - **Authentication**: JSON Web Tokens (JWT)  
