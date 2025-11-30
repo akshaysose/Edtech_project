@@ -36,11 +36,6 @@ Edtech_project/
 Smaple Screenshots
 
 
-![Screenshot 2025-06-12 160447](https://github.com/user-attachments/assets/fa2b03ac-f3f2-4e2e-b30d-bdb976a0a9d3)
-![Screenshot 2025-06-12 160502](https://github.com/user-attachments/assets/26df4d95-6d66-4c28-bb99-ff0e313980e3)
-![Screenshot 2025-06-12 160516](https://github.com/user-attachments/assets/3953a143-6c09-4671-b64a-4f20460f4126)
-![Screenshot 2025-06-12 160529](https://github.com/user-attachments/assets/5abd6ad9-2779-4ecd-9110-908937891417)
-![Screenshot 2025-06-12 160543](https://github.com/user-attachments/assets/a6506671-1a51-4fd8-b16d-c020cf7feb4a)
 
 ## ⚙️ Installation  
 
